@@ -201,7 +201,7 @@ var rules = {
     "I understand",
   ],
   "~*x how do I look today? ~*y": [
-  	"HOT AS HELL"
+  	"HOT AS HELL",
   ],
   "~*x someone ~*y": [
     "Can you be more specific?",
