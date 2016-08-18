@@ -200,6 +200,9 @@ var rules = {
     "You are sure?",
     "I understand",
   ],
+  "~*x how do I look today? ~*y": [
+  	"HOT AS HELL"
+  ],
   "~*x someone ~*y": [
     "Can you be more specific?",
   ],
